@@ -1,0 +1,2 @@
+text = "yaria"
+print(text)
